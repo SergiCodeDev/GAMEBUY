@@ -4,17 +4,17 @@
 
 ## Portada con efecto parallax
 
-<img src="https://github.com/SergiCodeDev/GAMEBUY/blob/main/README/portada.jpg?raw=true" alt="portada">
+<img src="https://github.com/SergiCodeDev/GAMEBUY/blob/main/README/portada.PNG?raw=true" alt="portada">
 
 ## Noticias
 
-<img src="https://github.com/SergiCodeDev/GAMEBUY/blob/main/README/noticias.jpg?raw=true" alt="oticias">
+<img src="https://github.com/SergiCodeDev/GAMEBUY/blob/main/README/noticias.PNG?raw=true" alt="oticias">
 
 ## Responsive
 
 <p align="center">
-<img src="https://github.com/SergiCodeDev/GAMEBUY/blob/main/README/04HELADOS1.jpg?raw=true" alt="portada" width="49%">
-<img src="https://github.com/SergiCodeDev/GAMEBUY/blob/main/README/04HELADOS2.jpg?raw=true" alt="portada" width="49%">
+<img src="https://github.com/SergiCodeDev/GAMEBUY/blob/main/README/movil1.png?raw=true" alt="portada" width="49%">
+<img src="https://github.com/SergiCodeDev/GAMEBUY/blob/main/README/movil2.png?raw=true" alt="portada" width="49%">
 </p>
 
 ## Este archivo contiene LICENCIAS de:
