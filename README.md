@@ -24,5 +24,5 @@
 > * Copyright 2022 Fonticons, Inc.
 > * iconos/css y webfonts
 
-> * Imagenes de https://unsplash.com/es/licencia
+> * Imágenes de https://unsplash.com/es/licencia
 > * (Algunas fueron modificadas)
