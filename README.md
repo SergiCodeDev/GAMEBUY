@@ -1,7 +1,5 @@
 # GameBuy
 
-### Esta web fue creada en el curso de Confección y Publicación de Páginas WEB (LABORA)
-
 ## Portada con efecto parallax
 
 <img src="https://github.com/SergiCodeDev/GAMEBUY/blob/main/README/portada.PNG?raw=true" alt="portada">
